@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph//file/4ced7e4a672638ac5c75e.jpg" alt="StringGen">
+  <img src="https://telegra.ph//file/dbdfe8eaaad8623fda8dd.jpg" alt="StringGen">
 
  
 ### 🤤 ғᴇᴀᴛᴜʀᴇs
@@ -11,13 +11,13 @@
 
 ### 🚀 ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
   
-  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/madara1188/DST-STRING-GEN"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/un-bots/string-gen"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
 ### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
   
-  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/StringSesssionGeneratorRobot)
+  [sᴛʀɪɴɢ ʙᴏᴛ 🗿](https://telegram.me/un_stringgenbot)
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
