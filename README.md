@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://telegra.ph//file/dbdfe8eaaad8623fda8dd.jpg" alt="StringGen">
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
-### 🤤 ғᴇᴀᴛᴜʀᴇs
+### ⭐ ғᴇᴀᴛᴜʀᴇs
 
 - [»] sᴜᴩᴩᴏʀᴛs ᴩʏʀᴏɢʀᴀᴍ ᴠ2 🔥
 - [»] sᴀғᴇsᴛ ʙᴏᴛ ᴇᴠᴇʀ 🔥
@@ -15,12 +16,8 @@
 
 
 
-### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
-  
-  [sᴛʀɪɴɢ ʙᴏᴛ 🗿](https://telegram.me/un_stringgenbot)
-
 ```
-Atleast Give A Star and Fork The Repo 🖤
+ Give A ⭐Star and Fork The Repo 🖤
 ```
 
 ## 🗒️ ɴᴇᴄᴇssᴀʀʏ ᴠᴀʀs
@@ -32,6 +29,6 @@ Atleast Give A Star and Fork The Repo 🖤
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
