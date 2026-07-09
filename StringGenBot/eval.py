@@ -41,7 +41,7 @@ async def edit_or_reply(msg: Message, **kwargs):
 )
 async def executor(client, message):
     if len(message.command) < 2:
-        return await edit_or_reply(message, text="**KY CHAIYE BABY ?**")
+        return await edit_or_reply(message, text="**KY CHAIYE BABY !?**")
     try:
         cmd = message.text.split(" ", maxsplit=1)[1]
     except IndexError:
