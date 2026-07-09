@@ -10,6 +10,7 @@ async def is_served_user(user_id: int) -> bool:
     return True
 
 
+
 async def get_served_users() -> list:
     users_list = []
     async for user in usersdb.find({"user_id": {"$gt": 0}}):
